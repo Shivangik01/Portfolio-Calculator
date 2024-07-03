@@ -67,9 +67,3 @@ Update the `firebaseConfig` object in your project with the configuration detail
 2. **Get Current Price:** Click the 'Get Price' button to fetch the current price of the stock.
 3. **View Historical Data:** Navigate to the historical data section to view the price trends of the stock.
 
-## Contact
-For any questions or feedback, please reach out to [your-email@example.com].
-
----
-
-This README file provides clear instructions and information about the project, making it easy for users to understand and set up the Portfolio Calculator.
